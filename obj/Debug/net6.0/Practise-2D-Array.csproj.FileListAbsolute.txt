@@ -1,0 +1,15 @@
+C:\Users\LAB-7\source\repos\Practise-2D-Array\Practise-2D-Array\bin\Debug\net6.0\Practise-2D-Array.exe
+C:\Users\LAB-7\source\repos\Practise-2D-Array\Practise-2D-Array\bin\Debug\net6.0\Practise-2D-Array.deps.json
+C:\Users\LAB-7\source\repos\Practise-2D-Array\Practise-2D-Array\bin\Debug\net6.0\Practise-2D-Array.runtimeconfig.json
+C:\Users\LAB-7\source\repos\Practise-2D-Array\Practise-2D-Array\bin\Debug\net6.0\Practise-2D-Array.dll
+C:\Users\LAB-7\source\repos\Practise-2D-Array\Practise-2D-Array\bin\Debug\net6.0\Practise-2D-Array.pdb
+C:\Users\LAB-7\source\repos\Practise-2D-Array\Practise-2D-Array\obj\Debug\net6.0\Practise-2D-Array.csproj.AssemblyReference.cache
+C:\Users\LAB-7\source\repos\Practise-2D-Array\Practise-2D-Array\obj\Debug\net6.0\Practise-2D-Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-7\source\repos\Practise-2D-Array\Practise-2D-Array\obj\Debug\net6.0\Practise-2D-Array.AssemblyInfoInputs.cache
+C:\Users\LAB-7\source\repos\Practise-2D-Array\Practise-2D-Array\obj\Debug\net6.0\Practise-2D-Array.AssemblyInfo.cs
+C:\Users\LAB-7\source\repos\Practise-2D-Array\Practise-2D-Array\obj\Debug\net6.0\Practise-2D-Array.csproj.CoreCompileInputs.cache
+C:\Users\LAB-7\source\repos\Practise-2D-Array\Practise-2D-Array\obj\Debug\net6.0\Practise-2D-Array.dll
+C:\Users\LAB-7\source\repos\Practise-2D-Array\Practise-2D-Array\obj\Debug\net6.0\refint\Practise-2D-Array.dll
+C:\Users\LAB-7\source\repos\Practise-2D-Array\Practise-2D-Array\obj\Debug\net6.0\Practise-2D-Array.pdb
+C:\Users\LAB-7\source\repos\Practise-2D-Array\Practise-2D-Array\obj\Debug\net6.0\Practise-2D-Array.genruntimeconfig.cache
+C:\Users\LAB-7\source\repos\Practise-2D-Array\Practise-2D-Array\obj\Debug\net6.0\ref\Practise-2D-Array.dll
