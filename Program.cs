@@ -19,6 +19,7 @@ namespace Practise_2D_Array
             }
 
             Console.WriteLine("The sum of all elements in the array is: " + sum);
+            Console.WriteLine();
         }
 
         static void calAvg()
@@ -39,6 +40,7 @@ namespace Practise_2D_Array
                 double average = (double)sum / column;
                 Console.WriteLine("Average of Row {0}: {1}", i + 1, average);
             }
+            Console.WriteLine();
         }
 
         
@@ -46,7 +48,7 @@ namespace Practise_2D_Array
         static void search()
         {
             int[,] searchArray = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
-
+            Console.Write("Please Enter a number to search: ");
             int search = Convert.ToInt32(Console.ReadLine());
 
             int rows = searchArray.GetLength(0);
